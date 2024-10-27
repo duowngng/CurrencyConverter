@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="_0">0</string>
+    <string-array name="currency_codes">
+        <item>USD</item>
+        <item>VND</item>
+        <item>JPY</item>
+    </string-array>
+</resources>
